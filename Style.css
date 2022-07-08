@@ -124,7 +124,7 @@ body{
 #isi{
     padding : 5px;
     width : 70%;
-    height : 1280px;
+    height : auto;
     background-color : steelblue;
     position : relative;
     margin-top : 5px;
@@ -181,7 +181,7 @@ a{
 .isipostingall {
 	background-color	: powderblue;
 	width				: 98%;
-	height				: 1280px;
+	height				: 1000px;
 	margin-bottom		: 5px;
 	padding				: 5px;
     font-size: 16px;
@@ -194,7 +194,7 @@ a{
 }
 .gambarposting1 {
 	width				: 230px;
-	height				: 1280px;
+	height				: 1000px;
 	float				: right;
 	margin				: 10px 5px 5px 10px;
 }
